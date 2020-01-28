@@ -14,9 +14,7 @@
 
 ## About-Process
 
-   <p> 
-Here's a quick script which will show you restores that have taken place within the last day.
-</p>
+<p>Here's a quick script which will show you restores that have taken place within the last day.</p>
 ---
 ## SQL-Logic
 ```SQL
